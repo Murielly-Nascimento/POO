@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Slides/Aula5-POO-AnaliseOO_UML.pdf</name>
+			<type>1</type>
+			<location>/home/mury/Área de Trabalho/UFU/3°Período/POO/Slides/Aula5-POO-AnaliseOO_UML.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>
