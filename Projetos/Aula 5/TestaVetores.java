@@ -4,7 +4,6 @@ public class TestaVetores {
 
 	public static void main(String[] args) {
 		int c[] = {1,2,3,4,5,6};
-		int b[] = new int[10];
 		
 		Scanner entrada = new Scanner(System.in);
 		for(int i =0; i<c.length;i++) {
@@ -15,6 +14,8 @@ public class TestaVetores {
 		for(int elem: c) {
 			System.out.println(elem);
 		}
+		
+		entrada.close();
 
 	}
 
