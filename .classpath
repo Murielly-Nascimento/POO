@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Projetos/Aula 3"/>
-	<classpathentry kind="src" path="Projetos/Aula 4"/>
-	<classpathentry kind="src" path="Projetos/Aula 5"/>
-	<classpathentry kind="src" path="Tarefas/Gestão Acadêmica"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
