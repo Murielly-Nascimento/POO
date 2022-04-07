@@ -1,0 +1,9 @@
+5-c)	Quando de férias os médicos não podem realizar consultas e os funcionários não podem registrar-las.	
+		A maior parte dos médicos tira férias em Dezembro. 
+		Os demais funionários também, mas precisam ter completado 1 ano na empresa.
+	
+6-c)	Cada consulta tem um valor diferente dependendo do médico. A clínica como um todo
+		tem regras específicas para calcula-lo. Pacientes com plano de saúde não pagam nada. 
+		Já aqueles sem plano, pagam integralmente a consulta,a menos que tenham um desconto, 
+		o qual é deduzido do valor.
+	
