@@ -1,4 +1,0 @@
-Correções
-
-- O sentido da seta da herança está ao contrário. Ela parte da subclasse em direção à superclasse
-- É necessário ter um relacionamento entre aluno e disciplina
